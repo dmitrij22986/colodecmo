@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Rubik Maze';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/rubikmaze/v2/xMQRuF9ZVa2ftiJEavXSAX4.ttf) format('truetype');
+}

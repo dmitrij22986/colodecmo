@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Rubik Glitch';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/rubikglitch/v2/qkBSXv8b_srFRYQVYrDKh9ZvmA.ttf) format('truetype');
+}

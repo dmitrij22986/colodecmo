@@ -1,0 +1,144 @@
+Uri: https://274418.selcdn.ru/cv08300-33250f0d-0664-43fc-9dbf-9d89738d114e/images/62828/f44bc6a9bb0214239dba6cb2fa2c4db7.ico
+File Name: C:\Downloaded Web Sites\colodecmo.ru\cv08300-33250f0d-0664-43fc-9dbf-9d89738d114e\images\62828\f44bc6a9bb0214239dba6cb2fa2c4db7.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://274418.selcdn.ru/cv08300-33250f0d-0664-43fc-9dbf-9d89738d114e/uploads/332521/7d2e00a6-cff0-4faa-971b-6ee74bee0e7d.jpeg
+File Name: C:\Downloaded Web Sites\colodecmo.ru\cv08300-33250f0d-0664-43fc-9dbf-9d89738d114e\uploads\332521\7d2e00a6-cff0-4faa-971b-6ee74bee0e7d.jpeg
+Content Type: image/jpeg
+
+Uri: https://colodecmo.ru/
+File Name: C:\Downloaded Web Sites\colodecmo.ru\index.htm
+Content Type: text/html
+
+Uri: https://colodecmo.ru/css/main.css?hash=dc02f2945c674d83b4d25fd912ca951b
+File Name: C:\Downloaded Web Sites\colodecmo.ru\css\main.css
+Content Type: text/css
+
+Uri: https://colodecmo.ru/images/7PZz9PFXfMAvnhSOkg628DDTq8c=/1023x/f150c52d-dfeb-4e91-bba5-5d2327459a8c.jpeg
+File Name: C:\Downloaded Web Sites\colodecmo.ru\images\7PZz9PFXfMAvnhSOkg628DDTq8c=\1023x\f150c52d-dfeb-4e91-bba5-5d2327459a8c.jpeg
+Content Type: image/jpeg
+
+Uri: https://colodecmo.ru/images/d557531a-fffa-45af-bc05-20c5d45fd18c.jpeg
+File Name: C:\Downloaded Web Sites\colodecmo.ru\images\d557531a-fffa-45af-bc05-20c5d45fd18c.jpeg
+Content Type: image/jpeg
+
+Uri: https://colodecmo.ru/images/f150c52d-dfeb-4e91-bba5-5d2327459a8c.jpeg
+File Name: C:\Downloaded Web Sites\colodecmo.ru\images\f150c52d-dfeb-4e91-bba5-5d2327459a8c.jpeg
+Content Type: image/jpeg
+
+Uri: https://colodecmo.ru/images/F9bXcYDetXDEU0Scdw7-uVSxYp0=/1023x/d557531a-fffa-45af-bc05-20c5d45fd18c.jpeg
+File Name: C:\Downloaded Web Sites\colodecmo.ru\images\F9bXcYDetXDEU0Scdw7-uVSxYp0=\1023x\d557531a-fffa-45af-bc05-20c5d45fd18c.jpeg
+Content Type: image/jpeg
+
+Uri: https://colodecmo.ru/images/hBUqdlBJyRrKvBRBjoV_3DVhJ98=/0x/d557531a-fffa-45af-bc05-20c5d45fd18c.jpeg
+File Name: C:\Downloaded Web Sites\colodecmo.ru\images\hBUqdlBJyRrKvBRBjoV_3DVhJ98=\0x\d557531a-fffa-45af-bc05-20c5d45fd18c.jpeg
+Content Type: image/jpeg
+
+Uri: https://colodecmo.ru/images/jWR--vIQlozUvhvb2zfLu4iZXYM=/666x/f150c52d-dfeb-4e91-bba5-5d2327459a8c.jpeg
+File Name: C:\Downloaded Web Sites\colodecmo.ru\images\jWR--vIQlozUvhvb2zfLu4iZXYM=\666x\f150c52d-dfeb-4e91-bba5-5d2327459a8c.jpeg
+Content Type: image/jpeg
+
+Uri: https://colodecmo.ru/images/LIETgtGTu3i44byLtKsUtskLp1E=/767x/f150c52d-dfeb-4e91-bba5-5d2327459a8c.jpeg
+File Name: C:\Downloaded Web Sites\colodecmo.ru\images\LIETgtGTu3i44byLtKsUtskLp1E=\767x\f150c52d-dfeb-4e91-bba5-5d2327459a8c.jpeg
+Content Type: image/jpeg
+
+Uri: https://colodecmo.ru/images/u3adGJ7DBspdkbkXbRuWsMX5YWM=/767x/d557531a-fffa-45af-bc05-20c5d45fd18c.jpeg
+File Name: C:\Downloaded Web Sites\colodecmo.ru\images\u3adGJ7DBspdkbkXbRuWsMX5YWM=\767x\d557531a-fffa-45af-bc05-20c5d45fd18c.jpeg
+Content Type: image/jpeg
+
+Uri: https://colodecmo.ru/images/uAIOCdeiTiFbh2GGdRNC-NJuxuo=/0x/f150c52d-dfeb-4e91-bba5-5d2327459a8c.jpeg
+File Name: C:\Downloaded Web Sites\colodecmo.ru\images\uAIOCdeiTiFbh2GGdRNC-NJuxuo=\0x\f150c52d-dfeb-4e91-bba5-5d2327459a8c.jpeg
+Content Type: image/jpeg
+
+Uri: https://colodecmo.ru/images/Z3uwnTQLvkWqC3npTzOdGNW2Ew8=/666x/d557531a-fffa-45af-bc05-20c5d45fd18c.jpeg
+File Name: C:\Downloaded Web Sites\colodecmo.ru\images\Z3uwnTQLvkWqC3npTzOdGNW2Ew8=\666x\d557531a-fffa-45af-bc05-20c5d45fd18c.jpeg
+Content Type: image/jpeg
+
+Uri: https://colodecmo.ru/js/main.js?hash=dc02f2945c674d83b4d25fd912ca951b
+File Name: C:\Downloaded Web Sites\colodecmo.ru\js\main.js
+Content Type: application/javascript
+
+Uri: https://craftum-cdn-dev.craftum.net/fonts/Gilroy/400.woff2
+File Name: C:\Downloaded Web Sites\colodecmo.ru\fonts\Gilroy\400.woff2
+Content Type: application/octet-stream
+
+Uri: https://craftum-cdn-dev.craftum.net/fonts/Gilroy/400italic.woff2
+File Name: C:\Downloaded Web Sites\colodecmo.ru\fonts\Gilroy\400italic.woff2
+Content Type: application/octet-stream
+
+Uri: https://craftum-cdn-dev.craftum.net/fonts/Gilroy/500.woff2
+File Name: C:\Downloaded Web Sites\colodecmo.ru\fonts\Gilroy\500.woff2
+Content Type: application/octet-stream
+
+Uri: https://craftum-cdn-dev.craftum.net/fonts/Gilroy/500italic.woff2
+File Name: C:\Downloaded Web Sites\colodecmo.ru\fonts\Gilroy\500italic.woff2
+Content Type: application/octet-stream
+
+Uri: https://craftum-cdn-dev.craftum.net/fonts/Gilroy/600.woff2
+File Name: C:\Downloaded Web Sites\colodecmo.ru\fonts\Gilroy\600.woff2
+Content Type: application/octet-stream
+
+Uri: https://craftum-cdn-dev.craftum.net/fonts/Gilroy/700.woff2
+File Name: C:\Downloaded Web Sites\colodecmo.ru\fonts\Gilroy\700.woff2
+Content Type: application/octet-stream
+
+Uri: https://craftum-cdn-dev.craftum.net/fonts/Gilroy/700italic.woff2
+File Name: C:\Downloaded Web Sites\colodecmo.ru\fonts\Gilroy\700italic.woff2
+Content Type: application/octet-stream
+
+Uri: https://craftum-cdn-dev.craftum.net/fonts/Stem/400.woff2
+File Name: C:\Downloaded Web Sites\colodecmo.ru\fonts\Stem\400.woff2
+Content Type: application/octet-stream
+
+Uri: https://craftum-cdn-dev.craftum.net/fonts/Stem/400italic.woff2
+File Name: C:\Downloaded Web Sites\colodecmo.ru\fonts\Stem\400italic.woff2
+Content Type: application/octet-stream
+
+Uri: https://craftum-cdn-dev.craftum.net/fonts/Stem/500.woff2
+File Name: C:\Downloaded Web Sites\colodecmo.ru\fonts\Stem\500.woff2
+Content Type: application/octet-stream
+
+Uri: https://craftum-cdn-dev.craftum.net/fonts/Stem/500italic.woff2
+File Name: C:\Downloaded Web Sites\colodecmo.ru\fonts\Stem\500italic.woff2
+Content Type: application/octet-stream
+
+Uri: https://craftum-cdn-dev.craftum.net/fonts/Stem/700.woff2
+File Name: C:\Downloaded Web Sites\colodecmo.ru\fonts\Stem\700.woff2
+Content Type: application/octet-stream
+
+Uri: https://craftum-cdn-dev.craftum.net/fonts/Stem/700italic.woff2
+File Name: C:\Downloaded Web Sites\colodecmo.ru\fonts\Stem\700italic.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto+Flex:ital,wght@0,400&display=swap
+File Name: C:\Downloaded Web Sites\colodecmo.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Rubik+Glitch:ital,wght@0,400&display=swap
+File Name: C:\Downloaded Web Sites\colodecmo.ru\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Rubik+Maze:ital,wght@0,400&display=swap
+File Name: C:\Downloaded Web Sites\colodecmo.ru\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Rubik+Mono+One:ital,wght@0,400&display=swap
+File Name: C:\Downloaded Web Sites\colodecmo.ru\css2-3
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/robotoflex/v9/NaN4epOXO_NexZs0b5QrzlOHb8wCikXpYqmZsWI-__OGfttPZktqc2VdZ80KvCLZaPcSBZtOx2MifRuWR28sPJtUMbsFEK6cRrleUx9Xgbm3WLHa_F4Ep4Fm0PN19Ik5Dntczx0wZGzhPlL1YNMYKbv9_1IQXOw7AiUJVXpRJ6cXW4O8TNGoXjC79QRyaLshNDUf3e0O-gn5rrZCu20YNYG0EACUTNK-QKavMlxGIQ.ttf
+File Name: C:\Downloaded Web Sites\colodecmo.ru\s\robotoflex\v9\NaN4epOXO_NexZs0b5QrzlOHb8wCikXpYqmZsWI-__OGfttPZktqc2VdZ80KvCLZaPcSBZtOx2MifRuWR28sPJtUMbsFEK6cRrleUx9Xgbm3WLHa_F4Ep4Fm0PN19Ik5Dntczx0wZGzhPlL1YNMYKbv9_1IQXOw7AiUJVXpRJ6cXW4O8TNGoXjC79QRyaLshNDUf3e0O-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubikglitch/v2/qkBSXv8b_srFRYQVYrDKh9ZvmA.ttf
+File Name: C:\Downloaded Web Sites\colodecmo.ru\s\rubikglitch\v2\qkBSXv8b_srFRYQVYrDKh9ZvmA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubikmaze/v2/xMQRuF9ZVa2ftiJEavXSAX4.ttf
+File Name: C:\Downloaded Web Sites\colodecmo.ru\s\rubikmaze\v2\xMQRuF9ZVa2ftiJEavXSAX4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubikmonoone/v18/UqyJK8kPP3hjw6ANTdfRk9YSN-8w.ttf
+File Name: C:\Downloaded Web Sites\colodecmo.ru\s\rubikmonoone\v18\UqyJK8kPP3hjw6ANTdfRk9YSN-8w.ttf
+Content Type: font/ttf
+
